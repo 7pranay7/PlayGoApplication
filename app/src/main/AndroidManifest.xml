@@ -45,7 +45,7 @@
         -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyC0x_TNpfT1_j-4r8VzIr6nUUp_VNRp74U" />
+            android:value="----------------REMOVED KEY----------------" />
 
         <activity android:name=".Forgot2" />
         <activity android:name=".Forgot" />
