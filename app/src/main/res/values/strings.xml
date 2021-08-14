@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PlayGoApplication</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <string-array name="city">
+        <item>Jaipur</item>
+        <item>Kanpur</item>
+        <item>Varanasi</item>
+    </string-array>
+
+    <string-array name="sport">
+        <item>Cricket</item>
+        <item>Football</item>
+        <item>Badminton</item>
+    </string-array>
+
+</resources>

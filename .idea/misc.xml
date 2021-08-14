@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Flutter_Projects/PlayGoApplication/app/src/main/res/drawable/menu.xml" value="0.3828125" />
+        <entry key="..\:/Flutter_Projects/PlayGoApplication/app/src/main/res/layout/activity_dash_board.xml" value="0.2828125" />
+        <entry key="..\:/Flutter_Projects/PlayGoApplication/app/src/main/res/layout/activity_dashboard.xml" value="0.2828125" />
+        <entry key="..\:/Flutter_Projects/PlayGoApplication/app/src/main/res/layout/activity_forgot2.xml" value="0.22" />
+        <entry key="..\:/Flutter_Projects/PlayGoApplication/app/src/main/res/layout/activity_home.xml" value="0.22" />
+        <entry key="..\:/Flutter_Projects/PlayGoApplication/app/src/main/res/layout/activity_home2.xml" value="0.2140625" />
+        <entry key="..\:/Flutter_Projects/PlayGoApplication/app/src/main/res/layout/activity_hook.xml" value="0.1" />
+        <entry key="..\:/Flutter_Projects/PlayGoApplication/app/src/main/res/layout/activity_hook_complete.xml" value="0.1" />
+        <entry key="..\:/Flutter_Projects/PlayGoApplication/app/src/main/res/layout/activity_hook_complete2.xml" value="0.24270833333333333" />
+        <entry key="..\:/Flutter_Projects/PlayGoApplication/app/src/main/res/layout/activity_login.xml" value="0.19429347826086957" />
+        <entry key="..\:/Flutter_Projects/PlayGoApplication/app/src/main/res/layout/activity_look.xml" value="0.20078740157480315" />
+        <entry key="..\:/Flutter_Projects/PlayGoApplication/app/src/main/res/layout/activity_main.xml" value="0.19429347826086957" />
+        <entry key="..\:/Flutter_Projects/PlayGoApplication/app/src/main/res/layout/activity_map_page1.xml" value="0.1" />
+        <entry key="..\:/Flutter_Projects/PlayGoApplication/app/src/main/res/layout/activity_map_page2.xml" value="0.19746376811594202" />
+        <entry key="..\:/Flutter_Projects/PlayGoApplication/app/src/main/res/layout/activity_maps.xml" value="0.36666666666666664" />
+        <entry key="..\:/Flutter_Projects/PlayGoApplication/app/src/main/res/layout/activity_selector.xml" value="0.1" />
+        <entry key="..\:/Flutter_Projects/PlayGoApplication/app/src/main/res/layout/activity_sign_up.xml" value="0.22" />
+        <entry key="..\:/Flutter_Projects/PlayGoApplication/app/src/main/res/layout/activity_testpage.xml" value="0.24270833333333333" />
+        <entry key="..\:/Flutter_Projects/PlayGoApplication/app/src/main/res/layout/dropdown_city.xml" value="0.2" />
+        <entry key="..\:/Flutter_Projects/PlayGoApplication/app/src/main/res/layout/header.xml" value="0.19429347826086957" />
+        <entry key="..\:/Flutter_Projects/PlayGoApplication/app/src/main/res/menu/main_menu.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

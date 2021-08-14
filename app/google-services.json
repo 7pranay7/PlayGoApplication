@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "228386498647",
+    "project_id": "playgoapplication",
+    "storage_bucket": "playgoapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228386498647:android:01791772a0bb0a16aa1b12",
+        "android_client_info": {
+          "package_name": "com.pxm.playgoapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228386498647-b8jrqf44q6j63dpe5krgg9j5qk55711o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ7NdUacCcfL_QkOmhZOSgDjkvdE-XGA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228386498647-b8jrqf44q6j63dpe5krgg9j5qk55711o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
